@@ -1,7 +1,7 @@
 # MongoDB-Provider
 ====
 #### MongoDB 访问类 
-#### Nuget MongoDB.Driver
+#### dll from Nuget MongoDB.Driver
 
 ***
 
