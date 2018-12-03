@@ -1,6 +1,6 @@
 # MongoDB-Provider
 ====
-#### MongoDB 访问类 
+#### MongoDB 访问类 （未实现线程安全）
 #### dll from Nuget MongoDB.Driver
 
 ***
